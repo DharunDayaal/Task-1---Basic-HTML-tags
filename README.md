@@ -4,4 +4,4 @@ In this repo the basic HTML tags like header tags, list tags, link tags, input t
 <br><br>
 <br><br>
 
-visit site on:- <a href="https://forms-for-employees.netlify.app">Basic HTML Tags</a>
+visit site on:- <a href="https://indian-population-details.netlify.app">Basic HTML Tags</a>
